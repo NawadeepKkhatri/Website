@@ -18,3 +18,15 @@ div{
     color: black;
     background-color: white;
 }
+p{
+    color:green;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+}
+img{
+    height:200px;
+    width:200px;
+    
+}
