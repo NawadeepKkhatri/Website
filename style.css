@@ -1,0 +1,10 @@
+*{
+    background-color: purple;
+}
+p{
+    text-align: center;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-weight: lighter;
+    font-style: italic;
+}
