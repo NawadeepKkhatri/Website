@@ -1,0 +1,20 @@
+*{
+    color:purple;
+}
+div{
+    color:green;
+}
+.alert-text{
+    color:red;
+}
+#title{
+    background-color: chocolate;
+}
+.read{
+    color:white;
+    background-color: black;
+}
+.unread{
+    color: black;
+    background-color: white;
+}
